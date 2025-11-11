@@ -8,14 +8,13 @@ export default function Home() {
           <div className="space-y-4 text-lg leading-relaxed">
             <p>
               I'm a developer and software engineer. I build accessible, pixel-perfect digital experiences for the web. 
-              Currently pursuing my MSc in Advanced Computer Science while working on innovative projects in AI, 
-              mobile development, and full-stack applications.
+              I'm currently working on an ML project called{" "}
+              <a href="https://github.com/SightAii" target="_blank" rel="noopener noreferrer" className="underline hover:no-underline">Sight-AI</a>.
             </p>
             
             <p>
               My life's work is to make technology easy to understand and interesting to learn about. I'm passionate 
-              about creating solutions that matter. I last worked on projects involving AI, computer vision, and 
-              full-stack development.
+              about creating solutions that matter. I'm currently focused on machine learning and AI applications.
             </p>
           </div>
 
@@ -23,16 +22,7 @@ export default function Home() {
             <p className="text-lg">Some of my favorite projects include:</p>
             <ul className="space-y-1 list-none pl-0">
               <li>
-                <a href="#" className="underline hover:no-underline">AI-Powered Computer Vision System</a>
-              </li>
-              <li>
-                <a href="#" className="underline hover:no-underline">Full-Stack E-Commerce Platform</a>
-              </li>
-              <li>
-                <a href="#" className="underline hover:no-underline">Mobile Application Development</a>
-              </li>
-              <li>
-                <a href="#" className="underline hover:no-underline">Real-Time Data Processing</a>
+                <a href="#" className="underline hover:no-underline">N/A</a>
               </li>
             </ul>
           </div>
